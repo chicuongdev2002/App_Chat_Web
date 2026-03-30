@@ -1,8 +1,8 @@
 {
-  "name": "zalochat",
+  "name": "soldchat",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://sonpham28052002.github.io/Zalo_Chat_Web",
+  "homepage": ".",
   "dependencies": {
     "@headlessui/react": "^1.7.18",
     "@heroicons/react": "^2.1.1",
