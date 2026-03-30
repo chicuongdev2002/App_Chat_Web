@@ -19,7 +19,7 @@ const bounce = cssTransition({
   exit: "animate__animated animate__bounceOut",
 });
 root.render(
-  <BrowserRouter basename="/Zalo_Chat_Web">
+  <BrowserRouter>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
         <StompSessionProvider url={`${host}/ws`}>
